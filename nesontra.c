@@ -1,4 +1,4 @@
-// COMPILE: $ gcc contro.c -o contro -lSDL2 -lSDL2_image `sdl2-config --cflags --libs` --std=c99 -Wall -g
+// COMPILE: $ gcc nesontra.c -o nesontra -lSDL2 -lSDL2_image `sdl2-config --cflags --libs` --std=c99 -Wall -g
 // FIX png files with ImageMagick: $ mogrify ./*.png
 
 #include "SDL.h"
